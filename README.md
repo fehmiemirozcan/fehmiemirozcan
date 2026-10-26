@@ -15,3 +15,7 @@
 - 🌱 **I’m currently learning:** Go (Golang) backend fundamentals & modern frontend frameworks.
 - ⚡ **Fun fact:** I'm currently trying to turn code into a real-world startup.
 - 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/fehmi-emir-%C3%B6zcan-b15684246/)
+
+### 🎓 Education
+- **Pamukkale University** — Labor Economics
+- **Ataturk University** — Computer Programming
