@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Fehmi Emir Özcan 👋
 
-<!--
-**fehmiemirozcan/fehmiemirozcan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior Full-Stack Developer** focused on building performant APIs, robust backend architectures, and responsive user interfaces.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Backend:** Go (Golang), REST APIs, JWT Auth
+- **Frontend:** React / HTML5, CSS3 / Tailwind CSS
+- **Databases & Cache:** PostgreSQL, Redis
+- **Tools & DevOps:** Docker, Git, Linux / WSL, Postman
+
+### 🚀 About Me
+- 🔭 **I’m currently working on:** Full-stack web applications & SaaS solutions.
+- 🌱 **I’m currently learning:** Go (Golang) backend fundamentals & modern frontend frameworks.
+- ⚡ **Fun fact:** I'm currently trying to turn code into a real-world startup.
+- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/fehmi-emir-%C3%B6zcan-b15684246/)
